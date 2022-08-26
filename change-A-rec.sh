@@ -22,7 +22,7 @@ aws route53 change-resource-record-sets \
         ,"TTL": 300
         ,"ResourceRecords": [
                 {
-                    "Value": "\"'${IP_ADDR}'\""
+                    "Value": "'${IP_ADDR}'"
                 }
          ]
       }
