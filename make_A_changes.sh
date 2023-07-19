@@ -13,3 +13,6 @@ WPI_IP_ADDR=130.215.45.247
 ./change-A-rec.sh mines ${WPI_IP_ADDR}
 ./change-A-rec.sh trecis ${WPI_IP_ADDR}
 ./change-A-rec.sh rmacc ${WPI_IP_ADDR}
+
+ASK_CI_IP_ADDR=3.141.229.154
+./change-A-rec.sh ask ${ASK_CI_IP_ADDR}
