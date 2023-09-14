@@ -14,3 +14,6 @@ KEY="_acme-challenge"
 
 # Mailgun SMTP verification
 ./change-rec.sh ask smtp._domainkey.mail.ask.cyberinfrastructure.org.=k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZYEs1xJ+T0CAHMJV+kzAKu7oTGv8lrSq6iH0/ptSO4Fsa9Cr0tWA94xrVt+iR1gXByw1ZU+r9HR6rN59086jzOYf9JgMJEwv2SNSahwEG4UmsVlPEiXBpRndnJUWoMl5Zjo48FQvoOAs2v4CA3uHzMiU5lCsOJG9bCLlTdvRSsQIDAQAB
+
+# Google Search Console verification
+./change-rec.sh ask google-site-verification=fY_z5SeGXdchSr07TiBqvvmw15nDrk-qThKyMtQgVF0
